@@ -1,2 +1,2 @@
 # PingR
-Simple IP scanner based on Perl
+Simple IP scanner based on Perl - NOT FINISHED
